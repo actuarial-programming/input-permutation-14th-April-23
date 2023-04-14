@@ -8,6 +8,9 @@ import itertools
 import datetime as dt
 # from locate import this_dir
 
+
+#test directly in a browser
+
 #Change path to retrieve functions
 my_dir=str(this_dir())
 if my_dir.split('\\')[-1] !='venv':
