@@ -11,6 +11,9 @@ import datetime as dt
 
 #test directly in a browser
 
+
+#test edit from very new to code
+
 #Change path to retrieve functions
 my_dir=str(this_dir())
 if my_dir.split('\\')[-1] !='venv':
